@@ -1,2 +1,1 @@
-<!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=UCr2WEf2pqE) -->
-<video src='your URL here' width=180/>
+![progress steps gif](https://user-images.githubusercontent.com/59434884/216897706-680fbdad-965e-4028-9347-930fcd1752ae.gif)
